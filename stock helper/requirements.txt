@@ -1,0 +1,13 @@
+API source：https://polygon.io/stocks
+
+Module from outside：
+import datetime
+import pandas as pd
+import requests
+from sklearn.linear_model import LinearRegression
+import numpy as np
+import time
+import streamlit as st
+
+Bollinger Bands calculation formula source：
+https://en.wikipedia.org/wiki/Bollinger_Bands

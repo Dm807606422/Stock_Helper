@@ -1,0 +1,7 @@
+link： https://northeastern-my.sharepoint.com/:v:/g/personal/mao_ziq_northeastern_edu/EQ0xGNOE4ldAnQJF486gGE4Bvzc2AOynX02u9evIyoEj2A?e=y7gIhr
+
+name： Ziqi Mao
+Project title: Stock helper
+class: CS5001
+Section:36
+description: this program help user check stock information and help them make prediction for stock profit.
